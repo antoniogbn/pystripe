@@ -1,5 +1,3 @@
-# pystripe
-
 # PyStripe - Python library for Stripe payment API 
 Python is a python library of functions to consume [Stripe](https://stripe.com/) APIs.
 
